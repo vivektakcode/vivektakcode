@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Java/SpringBoot/Flutter.<br>🌱 I’m currently learning more about Cryptocurrencies/Blockchain.<br>👯 I’m looking to collaborate on Java/SpringBoot/Flutter/BigData<br>💬 Ask me about Java/Flutter or any tech-related stuff.<br>📫 How to reach me: Check social links below.<br>⚡ Fun fact: I spend almost 1 hour a day on reflection.
+🔭 I’m currently working on Java/SpringBoot/JavaScript/GoLang.<br>🌱 I’m currently learning more about Cryptocurrencies/Blockchain.<br>👯 I’m looking to collaborate on Java/SpringBoot/Flutter/BigData<br>💬 Ask me about Java/Flutter or any tech-related stuff.<br>📫 How to reach me: Check social links below.<br>⚡ Fun fact: I spend almost 1 hour a day on reflection.
 
 
 ## 🌐 Socials:
