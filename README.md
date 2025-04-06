@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Java/SpringBoot/JavaScript/GoLang.<br>🌱 I’m currently learning more about Artifical Intelligence and Personal Finance<br>👯 I’m looking to collaborate on Java/SpringBoot and Golang<br>💬 Ask me about Personal Finance/ Tech Career progression and Java/SpringBoot or any tech-related stuff.<br>📫 How to reach me: Check social links below.<br>⚡ Fun fact: I spend almost 1 hour a day on reflection.
+🔭 I’m currently working on Java/SpringBoot/JavaScript/GoLang.<br>🌱 I’m currently learning more about Artificial Intelligence and Personal Finance<br>👯 I’m looking to collaborate on Java/SpringBoot and Golang<br>💬 Ask me about Personal Finance/ Tech Career progression and Java/SpringBoot or any tech-related stuff.<br>📫 How to reach me: Check social links below.<br>⚡ Fun fact: I spend almost 1 hour a day on reflection.
 
 
 ## 🌐 Socials:
@@ -17,9 +17,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vivektakcode&icon=1&color=0)](https://visitcount.itsvg.in)
