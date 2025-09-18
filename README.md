@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Java/SpringBoot/JavaScript/GoLang.<br>🌱 I’m currently learning more about Artificial Intelligence and Personal Finance<br>👯 I’m looking to collaborate on Java/SpringBoot and Golang<br>💬 Ask me about Personal Finance/ Tech Career progression and Java/SpringBoot or any tech-related stuff.<br>📫 How to reach me: Check social links below.<br>⚡ Fun fact: I spend almost 1 hour a day on reflection.
+🔭 I’m currently working on Java/SpringBoot/JavaScript/Typescript.<br>🌱 I’m currently learning more about Artificial Intelligence and Personal Finance<br>👯 I’m looking to collaborate on Java/SpringBoot/Typescript/AI<br>💬 Ask me about Personal Finance/ Tech Career progression and Java/SpringBoot or any tech-related stuff.<br>📫 How to reach me: Check social links below.<br>⚡ Fun fact: I spend almost 1 hour a day on reflection.
 
 
 ## 🌐 Socials:
